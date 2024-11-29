@@ -1,0 +1,80 @@
+[
+{
+  "directory": "/home/littleking08/ИСРПО/geometric_lib/build/lib",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/lib.dir/circle.cpp.o -c /home/littleking08/ИСРПО/geometric_lib/lib/circle.cpp",
+  "file": "/home/littleking08/ИСРПО/geometric_lib/lib/circle.cpp",
+  "output": "lib/CMakeFiles/lib.dir/circle.cpp.o"
+},
+{
+  "directory": "/home/littleking08/ИСРПО/geometric_lib/build/lib",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/lib.dir/rectangle.cpp.o -c /home/littleking08/ИСРПО/geometric_lib/lib/rectangle.cpp",
+  "file": "/home/littleking08/ИСРПО/geometric_lib/lib/rectangle.cpp",
+  "output": "lib/CMakeFiles/lib.dir/rectangle.cpp.o"
+},
+{
+  "directory": "/home/littleking08/ИСРПО/geometric_lib/build/lib",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/lib.dir/square.cpp.o -c /home/littleking08/ИСРПО/geometric_lib/lib/square.cpp",
+  "file": "/home/littleking08/ИСРПО/geometric_lib/lib/square.cpp",
+  "output": "lib/CMakeFiles/lib.dir/square.cpp.o"
+},
+{
+  "directory": "/home/littleking08/ИСРПО/geometric_lib/build/lib",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/lib.dir/triangle.cpp.o -c /home/littleking08/ИСРПО/geometric_lib/lib/triangle.cpp",
+  "file": "/home/littleking08/ИСРПО/geometric_lib/lib/triangle.cpp",
+  "output": "lib/CMakeFiles/lib.dir/triangle.cpp.o"
+},
+{
+  "directory": "/home/littleking08/ИСРПО/geometric_lib/build/bin",
+  "command": "/usr/bin/c++  -I/home/littleking08/ИСРПО/geometric_lib -g -std=gnu++20 -o CMakeFiles/LabaTests.dir/main.cpp.o -c /home/littleking08/ИСРПО/geometric_lib/bin/main.cpp",
+  "file": "/home/littleking08/ИСРПО/geometric_lib/bin/main.cpp",
+  "output": "bin/CMakeFiles/LabaTests.dir/main.cpp.o"
+},
+{
+  "directory": "/home/littleking08/ИСРПО/geometric_lib/build/tests",
+  "command": "/usr/bin/c++  -I/home/littleking08/ИСРПО/geometric_lib -isystem /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest/include -isystem /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest -g -std=gnu++20 -o CMakeFiles/tests.dir/test_circle.cpp.o -c /home/littleking08/ИСРПО/geometric_lib/tests/test_circle.cpp",
+  "file": "/home/littleking08/ИСРПО/geometric_lib/tests/test_circle.cpp",
+  "output": "tests/CMakeFiles/tests.dir/test_circle.cpp.o"
+},
+{
+  "directory": "/home/littleking08/ИСРПО/geometric_lib/build/tests",
+  "command": "/usr/bin/c++  -I/home/littleking08/ИСРПО/geometric_lib -isystem /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest/include -isystem /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest -g -std=gnu++20 -o CMakeFiles/tests.dir/test_rectangle.cpp.o -c /home/littleking08/ИСРПО/geometric_lib/tests/test_rectangle.cpp",
+  "file": "/home/littleking08/ИСРПО/geometric_lib/tests/test_rectangle.cpp",
+  "output": "tests/CMakeFiles/tests.dir/test_rectangle.cpp.o"
+},
+{
+  "directory": "/home/littleking08/ИСРПО/geometric_lib/build/tests",
+  "command": "/usr/bin/c++  -I/home/littleking08/ИСРПО/geometric_lib -isystem /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest/include -isystem /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest -g -std=gnu++20 -o CMakeFiles/tests.dir/test_square.cpp.o -c /home/littleking08/ИСРПО/geometric_lib/tests/test_square.cpp",
+  "file": "/home/littleking08/ИСРПО/geometric_lib/tests/test_square.cpp",
+  "output": "tests/CMakeFiles/tests.dir/test_square.cpp.o"
+},
+{
+  "directory": "/home/littleking08/ИСРПО/geometric_lib/build/tests",
+  "command": "/usr/bin/c++  -I/home/littleking08/ИСРПО/geometric_lib -isystem /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest/include -isystem /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest -g -std=gnu++20 -o CMakeFiles/tests.dir/test_triangle.cpp.o -c /home/littleking08/ИСРПО/geometric_lib/tests/test_triangle.cpp",
+  "file": "/home/littleking08/ИСРПО/geometric_lib/tests/test_triangle.cpp",
+  "output": "tests/CMakeFiles/tests.dir/test_triangle.cpp.o"
+},
+{
+  "directory": "/home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -I/home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googlemock/include -I/home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googlemock -isystem /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest/include -isystem /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest -g -std=c++20 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -isystem /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googlemock/include -isystem /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googlemock -isystem /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest/include -isystem /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest -g -std=c++20 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -I/home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest/include -I/home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest -g -std=c++20 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -isystem /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest/include -isystem /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest -g -std=c++20 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/littleking08/ИСРПО/geometric_lib/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

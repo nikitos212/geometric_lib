@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LabaTests.dir/main.cpp.o -o LabaTests  ../lib/liblib.a 
