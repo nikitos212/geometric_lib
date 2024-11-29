@@ -43,4 +43,13 @@ jobs:
       - name: windows
         if: matrix.os == 'windows-latest'
         run: |
-          .\build\tests\tests.exe
+          choco install msys2
+          $env:PATH += ";C:\msys64\usr\bin"
+          pacman -Syu
+          pacman -S --noconfirm cmake make gcc
+          mkdir -p build
+          cd build
+          cmake ..
+          make
+          cd ../build/tests
+          ./tests.exe
