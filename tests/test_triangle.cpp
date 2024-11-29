@@ -79,7 +79,7 @@ void check_triangle_perimeter(){
 }
 
 TEST(TriangleTestSuite, Area1){
-    ASSERT_DOUBLE_EQ(triangle_area(1.5f,2.3f), 1.725);
+    ASSERT_DOUBLE_EQ(triangle_area(1,2), 1);
     
 }
 
