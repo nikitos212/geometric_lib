@@ -47,9 +47,9 @@ jobs:
           $env:PATH += ";C:\msys64\usr\bin"
           pacman -Syu
           pacman -S --noconfirm cmake make gcc
-          mkdir -p build
-          cd build
+          mkdir -p build-w
+          cd build-w
           cmake ..
           make
-          cd ../build/tests
+          cd ../build-w/tests
           ./tests.exe
