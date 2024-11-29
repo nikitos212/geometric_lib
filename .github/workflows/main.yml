@@ -48,8 +48,7 @@ jobs:
           pacman -Syu
           pacman -S --noconfirm cmake make gcc
           mkdir -p build-w
-          cd build-w
-          cmake ..
-          make
+          cmake -B build-w
+          cmake --build build-w
           cd ../build-w/tests
-          ./tests
+          ./tests.exe
