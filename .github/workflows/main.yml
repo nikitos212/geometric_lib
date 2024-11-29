@@ -52,4 +52,4 @@ jobs:
           cmake ..
           make
           cd ../build-w/tests
-          ./tests.exe
+          ./tests
